@@ -24,9 +24,17 @@ __Algorithm__:
 5. Modulate Signal: Apply the AM formula to obtain the modulated signal. 
 6. Plot the Signals: Use Matplotlib to plot the message signal, carrier signal, and modulated signal.
 
+__Tabulation__:
+
+![WhatsApp Image 2025-11-19 at 10 21 38_a8aab1a5](https://github.com/user-attachments/assets/bf3c624b-b3cd-41b8-92da-71dc3dc81c21)
+
+
  __Output__:
+
+<img width="1238" height="738" alt="image" src="https://github.com/user-attachments/assets/a0372b65-00a8-492f-b8e9-1685c93a8b69" />
 
 
  __Result__:
 
+<img width="1238" height="738" alt="image" src="https://github.com/user-attachments/assets/0bd16e5a-4fa8-4733-a93d-872c8ee957aa" />
 
