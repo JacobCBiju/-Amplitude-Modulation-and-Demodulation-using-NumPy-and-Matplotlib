@@ -36,5 +36,4 @@ __Tabulation__:
 
  __Result__:
 
-<img width="1238" height="738" alt="image" src="https://github.com/user-attachments/assets/0bd16e5a-4fa8-4733-a93d-872c8ee957aa" />
-
+The message signal, carrier signal, and amplitude modulated (AM) signal will be displayed in separate plots. Thus AM is implemented using numPy and Matplotlib.
